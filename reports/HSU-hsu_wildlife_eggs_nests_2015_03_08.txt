@@ -1,0 +1,71 @@
+Report for Institution Code HSU, Resource hsu_wildlife_eggs_nests
+Usage stats for February, 2015, generated on 2015/03/08
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 6
+Number of different countries where searches have been originated: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-17 ; Times: 1
+	Date: 2015-02-20 ; Times: 1
+	Date: 2015-02-26 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "(Spinus lawrencei)" ; Times: 1
+	Query: "genus:melospiza specificepithet:melodia year:1936" ; Times: 1
+	Query: "Parkesia motacilla" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 326 download events in this period)
+Total number of records downloaded: 44 (out of 4108714 records downloaded for all resources in this period)
+Total number of unique records downloaded: 44
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: France ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-02-02 ; Times: 1
+	Date: 2015-02-11 ; Times: 1
+	Date: 2015-02-16 ; Times: 1
+	Date: 2015-02-19 ; Times: 1
+	Date: 2015-02-20 ; Times: 1
+	Date: 2015-02-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "(turdus OR zoothera)" ; Times: 1
+	Query: ""colinus virginianus" type:specimen" ; Times: 1
+	Query: "galbula" ; Times: 1
+	Query: "Crypturellus" ; Times: 1
+	Query: "Falco peregrinus eggs" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 48
+Total number of records retrieved from searches: 399
+Number of download events that retrieved data from the resource: 26
+Total number of records downloaded: 303
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 59
+Total number of records retrieved from searches: 424
+Number of download events that retrieved data from the resource: 137
+Total number of records downloaded: 13870
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
