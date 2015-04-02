@@ -1,0 +1,77 @@
+Report for Institution Code HSU, Resource hsu_wildlife_eggs_nests
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3
+Number of records retrieved in searches: 6
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 1
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-10 ; Times: 1
+	Date: 2015-03-26 ; Times: 1
+	Date: 2015-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: ""Empidonax wrightii" county:"San Bernardino" class:Aves" ; Times: 1
+	Query: "Piping Plover" ; Times: 1
+	Query: "sooty grouse" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 298 download events in this period)
+Total number of records downloaded: 72 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 57
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 3
+	Country: Mexico ; Times: 4
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-18 ; Times: 3
+	Date: 2015-03-22 ; Times: 1
+	Date: 2015-03-26 ; Times: 3
+	Date: 2015-03-27 ; Times: 2
+	Date: 2015-03-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "stateprovince:"Ohio" country:"United States" class:Aves" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "passerina amoena" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "class:Aves (Cuyamaca)" ; Times: 2
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "passerina caerulea" ; Times: 1
+	Query: "passerina ciris" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 51
+Total number of records retrieved from searches: 405
+Number of download events that retrieved data from the resource: 38
+Total number of records downloaded: 375
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 62
+Total number of records retrieved from searches: 430
+Number of download events that retrieved data from the resource: 149
+Total number of records downloaded: 13942
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
