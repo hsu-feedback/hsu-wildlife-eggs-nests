@@ -1,0 +1,106 @@
+Report for Institution Code HSU, Resource hsu_wildlife_eggs_nests
+Usage stats for May, 2015, generated on 2015/06/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 17
+Number of records retrieved in searches: 73
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-06 ; Times: 2
+	Date: 2015-05-07 ; Times: 4
+	Date: 2015-05-09 ; Times: 2
+	Date: 2015-05-11 ; Times: 2
+	Date: 2015-05-19 ; Times: 5
+	Date: 2015-05-20 ; Times: 1
+	Date: 2015-05-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "aves Georgia United States Sitta pusilla" ; Times: 1
+	Query: "institutioncode:HSU" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:peyton AND (NOT wfvz) year >= 1920 year <= 1920" ; Times: 1
+	Query: "Yellow-throated vireo" ; Times: 1
+	Query: ""j. claire wood" stateprovince:"michigan" year >= 1880 year <= 1922" ; Times: 1
+	Query: "aves Georgia United States Thryothorus ludovicianus" ; Times: 1
+	Query: "aves Georgia United States Lanius ludovicianus" ; Times: 2
+	Query: "stateprovince:"alaska" class:aves recordedby:hurley" ; Times: 1
+	Query: "institutioncode:hsu" ; Times: 1
+	Query: "class:aves recordedby:nicholson donald year >= 1918 year <= 1922" ; Times: 1
+	Query: "catalognumber:3541 institutioncode:HSU" ; Times: 2
+	Query: "class:aves recordedby:nicholson year >= 1918 year <= 1922" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:peyton AND (NOT wfvz NOT mvz NOT ypm NOT uwbm NOT usnm) year >= 1920 year <= 1920" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:peyton AND (NOT wfvz NOT mvz NOT ypm) year >= 1920 year <= 1920" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:peyton AND (NOT wfvz NOT mvz) year >= 1920 year <= 1920" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 58 (out of 976 download events in this period)
+Total number of records downloaded: 431 (out of 7910366 records downloaded for all resources in this period)
+Total number of unique records downloaded: 204
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Mexico ; Times: 6
+	Country: Netherlands ; Times: 1
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 43
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-05-05 ; Times: 1
+	Date: 2015-05-09 ; Times: 1
+	Date: 2015-05-10 ; Times: 1
+	Date: 2015-05-11 ; Times: 1
+	Date: 2015-05-12 ; Times: 3
+	Date: 2015-05-13 ; Times: 1
+	Date: 2015-05-15 ; Times: 2
+	Date: 2015-05-18 ; Times: 18
+	Date: 2015-05-19 ; Times: 25
+	Date: 2015-05-20 ; Times: 1
+	Date: 2015-05-24 ; Times: 1
+	Date: 2015-05-25 ; Times: 2
+	Date: 2015-05-27 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Motacilla alba type:specimen year >= 1800 year <= 1909" ; Times: 38
+	Query: "Motacilla alba type:specimen year >= 1891 year <= 1909" ; Times: 4
+	Query: "Cistothorus palustris" ; Times: 1
+	Query: "Tympanuchus cupido cupido" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "tyto alba" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "Thryothorus ludovicianus" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "country:"Mexico"" ; Times: 1
+	Query: "stateprovince:"Baja California" country:"Mexico"" ; Times: 1
+	Query: "Tyrannidae" ; Times: 2
+	Query: "Cistothorus platensis" ; Times: 1
+	Query: "certhia americana" ; Times: 1
+	Query: "aves Georgia United States Sitta pusilla" ; Times: 1
+	Query: "j. claire wood stateprovince:"michigan" year >= 1880 year <= 1922" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 68
+Total number of records retrieved from searches: 478
+Number of download events that retrieved data from the resource: 96
+Total number of records downloaded: 806
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 79
+Total number of records retrieved from searches: 503
+Number of download events that retrieved data from the resource: 207
+Total number of records downloaded: 14373
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
