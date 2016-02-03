@@ -1,0 +1,72 @@
+Report for Institution Code HSU, Resource hsu_wildlife_eggs_nests
+Usage stats for December 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 20
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 5
+	Country: Canada ; Times: 3
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-09 ; Times: 1
+	Date: 2015-12-08 ; Times: 2
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-06 ; Times: 1
+	Date: 2015-12-05 ; Times: 1
+	Date: 2015-12-14 ; Times: 2
+	Date: 2015-12-15 ; Times: 1
+	Date: 2015-12-23 ; Times: 1
+	Date: 2015-12-10 ; Times: 1
+	Date: 2015-12-11 ; Times: 1
+	Date: 2015-12-27 ; Times: 2
+	Date: 2015-12-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "Zonotrichia leucophrys year &gt;= 1930 year &lt;= 1930" ; Times: 1
+	Query: "roseate tern" ; Times: 1
+	Query: "elf" ; Times: 8
+	Query: "Setophaga citrina" ; Times: 1
+	Query: "nuttall woodpecker" ; Times: 1
+	Query: "catalognumber:1017" ; Times: 1
+	Query: "Antrostomus vociferus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 889 download events in this period)
+Total number of records downloaded: 110
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-12-08 ; Times: 3
+	Date: 2015-12-02 ; Times: 1
+	Date: 2015-12-01 ; Times: 1
+	Date: 2015-12-07 ; Times: 1
+	Date: 2015-12-04 ; Times: 2
+	Date: 2015-12-31 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "european starling" ; Times: 2
+	Query: "Troglodytes" ; Times: 1
+	Query: "pelecanus erythrorhynchos" ; Times: 1
+	Query: "Archilochus alexandri type:specimen" ; Times: 1
+	Query: "Empidonax difficilis" ; Times: 1
+	Query: "Calypte anna type:specimen" ; Times: 1
+	Query: "sturnella neglecta" ; Times: 1
+	Query: "larimer aves" ; Times: 1
+	Query: "passer domesticus" ; Times: 1
+	Query: "Archilochus colubris type:specimen" ; Times: 2
+
+
+End of report.
