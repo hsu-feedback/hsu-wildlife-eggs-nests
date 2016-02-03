@@ -1,0 +1,93 @@
+Report for Institution Code HSU, Resource hsu_wildlife_eggs_nests
+Usage stats for November 2015, generated on 2016/02/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 31
+Number of records retrieved in searches: 74
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+	Country: Argentina ; Times: 13
+	Country: Russia ; Times: 6
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-15 ; Times: 2
+	Date: 2015-11-09 ; Times: 1
+	Date: 2015-11-30 ; Times: 2
+	Date: 2015-11-05 ; Times: 4
+	Date: 2015-11-24 ; Times: 5
+	Date: 2015-11-03 ; Times: 2
+	Date: 2015-11-26 ; Times: 1
+	Date: 2015-11-16 ; Times: 1
+	Date: 2015-11-06 ; Times: 2
+	Date: 2015-11-04 ; Times: 9
+	Date: 2015-11-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Peucaea aestivalis institutioncode:HSU" ; Times: 1
+	Query: "Buteo albicaudatus eggs" ; Times: 1
+	Query: "Podilymbus podiceps eggs" ; Times: 2
+	Query: "institutioncode:HSU" ; Times: 1
+	Query: "long-billed curlew year &gt;= 1800 year &lt;= 1900" ; Times: 2
+	Query: "Eudromia elegans eggs" ; Times: 2
+	Query: "nothoprocta cinerascens eggs" ; Times: 2
+	Query: "Anas cyanoptera eggs" ; Times: 1
+	Query: "elf" ; Times: 9
+	Query: "Oxyura jamaicensis eggs" ; Times: 1
+	Query: "Platalea ajaja eggs" ; Times: 1
+	Query: "Aimophila aestivalis institutioncode:HSU" ; Times: 1
+	Query: "long-billed curlew year &gt;= 1800 year &lt;= 1960" ; Times: 1
+	Query: "sula leucogaster" ; Times: 1
+	Query: "long-billed curlew" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:stevens lawrence" ; Times: 1
+	Query: "Parabuteo unicinctus eggs" ; Times: 1
+	Query: "Porphyrio martinicus eggs" ; Times: 1
+	Query: "Crotophaga ani eggs" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 751 download events in this period)
+Total number of records downloaded: 2613
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: United Kingdom ; Times: 1
+	Country: Sweden ; Times: 2
+	Country: New Zealand ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-11-02 ; Times: 2
+	Date: 2015-11-06 ; Times: 1
+	Date: 2015-11-18 ; Times: 1
+	Date: 2015-11-11 ; Times: 1
+	Date: 2015-11-24 ; Times: 1
+	Date: 2015-11-10 ; Times: 1
+	Date: 2015-11-26 ; Times: 2
+	Date: 2015-11-05 ; Times: 1
+	Date: 2015-11-20 ; Times: 1
+	Date: 2015-11-14 ; Times: 2
+	Date: 2015-11-23 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "puffinus" ; Times: 1
+	Query: "zealand year &gt;= 1820 year &lt;= 1950" ; Times: 1
+	Query: "type:specimen order:Psittaciformes" ; Times: 1
+	Query: "institutioncode:HSU" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "ploceus" ; Times: 2
+	Query: "Corvus corax type:specimen" ; Times: 1
+	Query: "order:Psittaciformes" ; Times: 2
+	Query: "uria aalge eggs" ; Times: 1
+	Query: "Salpinctes stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT scintilla NOT ardens NOT flammula NOT platycercus NOT rufus NOT calliope NOT torridus NOT simoni)" ; Times: 1
+	Query: "Tympanuchus cupido" ; Times: 1
+	Query: "type:specimen (selasphorus) AND (NOT rufus AND NOT platycercus)" ; Times: 1
+
+
+End of report.
