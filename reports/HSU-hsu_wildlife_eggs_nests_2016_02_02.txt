@@ -1,0 +1,82 @@
+Report for Institution Code HSU, Resource WildlifeEggsNest
+Usage stats for January, 2016, generated on 2016/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 16
+Number of records retrieved in searches: 49
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Russia ; Times: 3
+	Country: United States ; Times: 10
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-05 ; Times: 3
+	Date: 2016-01-09 ; Times: 2
+	Date: 2016-01-10 ; Times: 2
+	Date: 2016-01-11 ; Times: 1
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-14 ; Times: 1
+	Date: 2016-01-18 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-24 ; Times: 1
+	Date: 2016-01-27 ; Times: 1
+	Date: 2016-01-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "charadrius county:"humboldt" stateprovince:"california"" ; Times: 1
+	Query: "stateprovince:"alaska" recordedby:hurley" ; Times: 2
+	Query: "class:aves stateprovince:"Oklahoma" year >= 1926 year <= 1926" ; Times: 1
+	Query: "elf" ; Times: 6
+	Query: "Grus canadensis Henry" ; Times: 1
+	Query: "blue penguin" ; Times: 3
+	Query: "Ixoreus naevius month >= 6 month <= 6" ; Times: 1
+	Query: "Oceanodroma homochroa 1913" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 507 download events in this period)
+Total number of records downloaded: 50 (out of 4904477 records downloaded for all resources in this period)
+Total number of unique records downloaded: 50
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Netherlands ; Times: 1
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-20 ; Times: 1
+	Date: 2016-01-21 ; Times: 1
+	Date: 2016-01-22 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Alberta" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: "charadrius nivosus" ; Times: 1
+	Query: "Setophaga discolor type:specimen" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: No data
+Total number of records retrieved from searches: No data
+Number of download events that retrieved data from the resource: 5
+Total number of records downloaded: 50
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 16
+Total number of records retrieved from searches: 49
+Number of download events that retrieved data from the resource: 5
+Total number of records downloaded: 50
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
