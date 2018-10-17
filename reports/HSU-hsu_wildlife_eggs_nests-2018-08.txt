@@ -1,0 +1,87 @@
+Report for Institution Code HSU, Resource hsu_wildlife_eggs_nests
+Usage stats for August 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 19
+Number of records retrieved in searches: 67
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-16 ; Times: 4
+	Date: 2018-08-30 ; Times: 1
+	Date: 2018-08-31 ; Times: 2
+	Date: 2018-08-08 ; Times: 2
+	Date: 2018-08-19 ; Times: 1
+	Date: 2018-08-05 ; Times: 1
+	Date: 2018-08-07 ; Times: 2
+	Date: 2018-08-06 ; Times: 1
+	Date: 2018-08-12 ; Times: 2
+	Date: 2018-08-13 ; Times: 2
+	Date: 2018-08-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:colubris (eggs)" ; Times: 1
+	Query: "institutioncode:HSU" ; Times: 3
+	Query: "recordedby:isador s trostler" ; Times: 2
+	Query: "genus:sternula county:&#34;orange&#34;" ; Times: 3
+	Query: "specificepithet:crissalis order:Passeriformes county:&#34;San Bernardino&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "elf" ; Times: 4
+	Query: "specificepithet:crissalis order:Passeriformes county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "recordedby:balmer" ; Times: 1
+	Query: "HSU 2149" ; Times: 2
+	Query: "HSU 2857" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 1416 download events in this period)
+Total number of records downloaded: 164
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 4
+	Country: United Kingdom ; Times: 1
+	Country: Bulgaria ; Times: 1
+	Country: Mexico ; Times: 20
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-08-14 ; Times: 6
+	Date: 2018-08-19 ; Times: 6
+	Date: 2018-08-16 ; Times: 2
+	Date: 2018-08-04 ; Times: 1
+	Date: 2018-08-07 ; Times: 1
+	Date: 2018-08-15 ; Times: 7
+	Date: 2018-08-01 ; Times: 1
+	Date: 2018-08-13 ; Times: 1
+	Date: 2018-08-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Passerculus sandwichensis" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "sooty tern" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "Asio flammeus" ; Times: 5
+	Query: "class:Aves country:&#34;Canada&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "great tailed grackle" ; Times: 1
+	Query: "Falco sparverius" ; Times: 1
+	Query: "Numenius americanus" ; Times: 1
+	Query: "fulmar" ; Times: 1
+	Query: "Tyrannus vociferans" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Euphagus cyanocephalus" ; Times: 1
+	Query: "Sialia currucoides" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "Buteo regalis" ; Times: 1
+	Query: "Bartramia longicauda" ; Times: 1
+	Query: "Sturnella neglecta" ; Times: 1
+	Query: "Pooecetes gramineus" ; Times: 1
+
+
+End of report.
