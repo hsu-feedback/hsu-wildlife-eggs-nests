@@ -1,0 +1,98 @@
+Report for Institution Code HSU, Resource hsu_wildlife_eggs_nests
+Usage stats for November 2018, generated on 2018/12/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 30
+Number of records retrieved in searches: 54
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: Unknown ; Times: 2
+	Country: Russia ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-19 ; Times: 1
+	Date: 2018-11-04 ; Times: 3
+	Date: 2018-11-07 ; Times: 3
+	Date: 2018-11-06 ; Times: 3
+	Date: 2018-11-05 ; Times: 3
+	Date: 2018-11-13 ; Times: 6
+	Date: 2018-11-02 ; Times: 2
+	Date: 2018-11-16 ; Times: 1
+	Date: 2018-11-25 ; Times: 1
+	Date: 2018-11-27 ; Times: 1
+	Date: 2018-11-26 ; Times: 4
+	Date: 2018-11-21 ; Times: 1
+	Date: 2018-11-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "minnesota Phalacrocorax auritus" ; Times: 1
+	Query: "locality:egg island stateprovince:&#34;oregon&#34;" ; Times: 1
+	Query: "class:aves locality:bird recordedby:baynard" ; Times: 1
+	Query: "specificepithet:gramineus genus:Pooecetes year &gt;= 1901 year &lt;= 1901" ; Times: 1
+	Query: "genus:Ortalis specificepithet:vetula " ; Times: 3
+	Query: "specificepithet:bewickii stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:Colaptes county:&#34;Ventura&#34;" ; Times: 2
+	Query: "elf" ; Times: 3
+	Query: "recordedby:greenwood year &gt;= 1850 year &lt;= 1900" ; Times: 1
+	Query: "recordedby:greenwood year &gt;= 1870 year &lt;= 1900" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:Lanius class:aves year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "locality:consag" ; Times: 1
+	Query: "class:aves catalognumber:2592" ; Times: 1
+	Query: "class:aves country:&#34;mexico&#34; recordedby:humphries" ; Times: 1
+	Query: "locality:robinson stateprovince:&#34;georgia&#34;" ; Times: 4
+	Query: "stateprovince:&#34;massachusetts&#34; recordedby:bassett" ; Times: 1
+	Query: "class:aves stateprovince:&#34;minnesota&#34; recordedby:johnson year &gt;= 1880 year &lt;= 1920" ; Times: 1
+	Query: "locality:beverly stateprovince:&#34;georgia&#34;" ; Times: 1
+	Query: "class:aves recordedby:baynard year &gt;= 1910 year &lt;= 1910" ; Times: 1
+	Query: "locality:chesapeake stateprovince:&#34;utah&#34;" ; Times: 2
+	Query: "class:aves recordedby:ritson" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 19 (out of 1719 download events in this period)
+Total number of records downloaded: 172
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 12
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 5
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-11-07 ; Times: 1
+	Date: 2018-11-06 ; Times: 1
+	Date: 2018-11-14 ; Times: 3
+	Date: 2018-11-02 ; Times: 1
+	Date: 2018-11-01 ; Times: 3
+	Date: 2018-11-17 ; Times: 1
+	Date: 2018-11-27 ; Times: 5
+	Date: 2018-11-16 ; Times: 1
+	Date: 2018-11-29 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "northern fulmar" ; Times: 1
+	Query: "yellow-billed cuckoo" ; Times: 1
+	Query: "Buteo platypterus" ; Times: 1
+	Query: "specificepithet:bewickii stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "specificepithet:otus genus:asio" ; Times: 1
+	Query: "Sphenisciformes" ; Times: 1
+	Query: "recordedby:greenwood year &gt;= 1870 year &lt;= 1900" ; Times: 1
+	Query: "catharus ustulatus" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "Campylorhynchus brunneicapillus stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:asio genus:megascops" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "fulmarus glacialis" ; Times: 1
+	Query: "Sula nebouxii mexico" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Minnesota&#34;" ; Times: 2
+	Query: "Buteo buteo" ; Times: 1
+	Query: "penguin" ; Times: 1
+
+
+End of report.
