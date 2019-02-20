@@ -1,0 +1,73 @@
+Report for Institution Code HSU, Resource hsu_wildlife_eggs_nests
+Usage stats for January 2019, generated on 2019/02/20
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 15
+Number of records retrieved in searches: 27
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Brazil ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Peru ; Times: 6
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-29 ; Times: 1
+	Date: 2019-01-28 ; Times: 1
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-07 ; Times: 1
+	Date: 2019-01-16 ; Times: 2
+	Date: 2019-01-22 ; Times: 2
+	Date: 2019-01-11 ; Times: 2
+	Date: 2019-01-13 ; Times: 2
+	Date: 2019-01-09 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Geranoaetus albicaudatus" ; Times: 1
+	Query: "locality:trinidad island country:&#34;mexico&#34;" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "Spatula discors" ; Times: 1
+	Query: "vntype:specimen specificepithet:asio genus:megascops stateprovince:&#34;north dakota&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:asio genus:megascops stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "&#34;Sidney B. Peyton&#34; AND &#34;Island&#34;" ; Times: 1
+	Query: "Spatula cyanoptera" ; Times: 1
+	Query: "Gallinula galeata" ; Times: 1
+	Query: "&#34;Lawrence G. Peyton&#34; AND &#34;Baja&#34; AND &#34;Island&#34;" ; Times: 1
+	Query: "Porphyrio martinicus" ; Times: 1
+	Query: "specificepithet:crissale genus:Toxostoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Gallinula galeata mappable:1" ; Times: 1
+	Query: "specificepithet:platypterus genus:buteo stateprovince:&#34;texas&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 8 (out of 962 download events in this period)
+Total number of records downloaded: 21
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-01-03 ; Times: 2
+	Date: 2019-01-08 ; Times: 1
+	Date: 2019-01-09 ; Times: 2
+	Date: 2019-01-22 ; Times: 1
+	Date: 2019-01-25 ; Times: 1
+	Date: 2019-01-24 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "reddish egret" ; Times: 1
+	Query: "genus:sula specificepithet:leucogaster" ; Times: 1
+	Query: "Asio flammeus" ; Times: 1
+	Query: "Ammodramus savannarum" ; Times: 1
+	Query: "specificepithet:crissale genus:Toxostoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Oceanodroma melania" ; Times: 1
+	Query: "Toxostoma crissale" ; Times: 1
+
+
+End of report.
