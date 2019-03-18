@@ -1,0 +1,81 @@
+Report for Institution Code HSU, Resource hsu_wildlife_eggs_nests
+Usage stats for February 2019, generated on 2019/03/18
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 72
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 33
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-12 ; Times: 2
+	Date: 2019-02-18 ; Times: 2
+	Date: 2019-02-16 ; Times: 1
+	Date: 2019-02-02 ; Times: 1
+	Date: 2019-02-25 ; Times: 1
+	Date: 2019-02-13 ; Times: 3
+	Date: 2019-02-27 ; Times: 6
+	Date: 2019-02-20 ; Times: 4
+	Date: 2019-02-22 ; Times: 6
+	Date: 2019-02-23 ; Times: 7
+	Date: 2019-02-06 ; Times: 1
+	Date: 2019-02-28 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "swallow-tailed kite" ; Times: 1
+	Query: "Woodhouse’s Scrub-Jay" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "specificepithet:umbellus genus:bonasa institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:2656 institutioncode:HSU" ; Times: 4
+	Query: "class:aves catalognumber:61 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1969 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:1752 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2449 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2879 institutioncode:HSU" ; Times: 2
+	Query: "okeechobee game reserve" ; Times: 1
+	Query: "Walter B. Savary" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;california&#34; year &gt;= 1885 year &lt;= 1955" ; Times: 1
+	Query: "2892 institutioncode:HSU" ; Times: 1
+	Query: "recordedby:franklin j. smith year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "catalognumber:2924 institutioncode:HSU" ; Times: 2
+	Query: "2891 institutioncode:HSU" ; Times: 1
+	Query: "institutioncode:HSU" ; Times: 1
+	Query: "2893 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:3065 institutioncode:HSU" ; Times: 2
+	Query: "stateprovince:&#34;alaska&#34; recordedby:eley" ; Times: 1
+	Query: "2977 institutioncode:HSU" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:phillips year &gt;= 1976 year &lt;= 1976" ; Times: 1
+	Query: "catalognumber:2547 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:2492 institutioncode:HSU" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 7 (out of 1227 download events in this period)
+Total number of records downloaded: 30
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-02-11 ; Times: 4
+	Date: 2019-02-24 ; Times: 1
+	Date: 2019-02-07 ; Times: 1
+	Date: 2019-02-05 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "toxostoma rufum" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;California&#34; year &lt;= 1955 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "rynchops niger" ; Times: 1
+	Query: "tree swallow" ; Times: 1
+	Query: "(&#34;toxostoma longirostre&#34;)" ; Times: 1
+	Query: "(&#34;toxostoma cinereum&#34;)" ; Times: 1
+	Query: "toxostoma redivivum" ; Times: 1
+
+
+End of report.
