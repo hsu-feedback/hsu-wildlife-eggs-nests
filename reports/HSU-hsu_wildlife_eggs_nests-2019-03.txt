@@ -1,0 +1,119 @@
+Report for Institution Code HSU, Resource hsu_wildlife_eggs_nests
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 94
+Number of records retrieved in searches: 194
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Brazil ; Times: 1
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 86
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-06 ; Times: 35
+	Date: 2019-03-03 ; Times: 2
+	Date: 2019-03-26 ; Times: 3
+	Date: 2019-03-25 ; Times: 5
+	Date: 2019-03-08 ; Times: 1
+	Date: 2019-03-18 ; Times: 3
+	Date: 2019-03-19 ; Times: 2
+	Date: 2019-03-05 ; Times: 12
+	Date: 2019-03-04 ; Times: 7
+	Date: 2019-03-14 ; Times: 10
+	Date: 2019-03-15 ; Times: 4
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-13 ; Times: 3
+	Date: 2019-03-29 ; Times: 3
+	Date: 2019-03-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:summit county:&#34;placer&#34;" ; Times: 2
+	Query: "catalognumber:623 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2557 institutioncode:HSU" ; Times: 2
+	Query: "Gallinula galeata mappable:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:pelagica genus:Chaetura preparations:nest basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:anna genus:calypte preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:California" ; Times: 3
+	Query: "catalognumber:2678 institutioncode:HSU" ; Times: 1
+	Query: "HSU 2871" ; Times: 2
+	Query: "catalognumber:851 institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:New York" ; Times: 4
+	Query: "class:Aves catalognumber:1266" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus country:canada" ; Times: 2
+	Query: "elf" ; Times: 3
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Michigan" ; Times: 4
+	Query: "catalognumber:2111 institutioncode:HSU" ; Times: 6
+	Query: "county:&#34;lake&#34; institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:633 institutioncode:HSU" ; Times: 1
+	Query: "class:Aves locality:&#34;Humboldt State University&#34; county:&#34;Humboldt&#34; institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:819 institutioncode:HSU" ; Times: 3
+	Query: "stateprovince:&#34;alabama&#34; recordedby:wheeler" ; Times: 1
+	Query: "catalognumber:2437 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2966 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:2460 institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Oregon" ; Times: 4
+	Query: "catalognumber:1600 institutioncode:HSU" ; Times: 1
+	Query: "recordedby:atwell year &gt;= 1930 year &lt;= 1930" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus" ; Times: 3
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Florida" ; Times: 4
+	Query: "catalognumber:622 institutioncode:HSU" ; Times: 2
+	Query: "nest vntype:specimen specificepithet:pelagica genus:chaetura basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "country:&#34;canada&#34; recordedby:raine year &gt;= 1920 year &lt;= 1920" ; Times: 1
+	Query: "catalognumber:3248 institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:Ohio" ; Times: 4
+	Query: "atlantic puffin Greenland" ; Times: 1
+	Query: "catalognumber:3105 institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:brachyrhynchos genus:corvus stateprovince:South Carolina" ; Times: 4
+	Query: "atlantic puffin" ; Times: 1
+	Query: "white-tailed hawk" ; Times: 1
+	Query: "locality:peat stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "catalognumber:3250 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2356 institutioncode:HSU" ; Times: 2
+	Query: "locality:shoe lake country:&#34;canada&#34; year &gt;= 1920 year &lt;= 1920" ; Times: 1
+	Query: "locality:Tidd Swamp" ; Times: 2
+	Query: "locality:antelope recordedby:truesdale" ; Times: 2
+	Query: "catalognumber:2573 institutioncode:HSU" ; Times: 2
+	Query: "county:&#34;okeechobee&#34; recordedby:savary" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1281 download events in this period)
+Total number of records downloaded: 24
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Argentina ; Times: 2
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-15 ; Times: 1
+	Date: 2019-03-27 ; Times: 1
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 1
+	Date: 2019-03-07 ; Times: 1
+	Date: 2019-03-06 ; Times: 3
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-14 ; Times: 1
+	Date: 2019-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "american coot" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus continent:north america" ; Times: 1
+	Query: "specificepithet:brachyrhynchos genus:corvus country:canada" ; Times: 1
+	Query: "Tachycineta bicolor" ; Times: 1
+	Query: "ammodramus savannarum" ; Times: 1
+	Query: "vntype:specimen genus:porphyrio" ; Times: 1
+	Query: "specificepithet:saya genus:Sayornis family:Tyrannidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Phainopepla" ; Times: 1
+	Query: "corvus caurinus" ; Times: 1
+	Query: "geranoaetus" ; Times: 2
+
+
+End of report.
