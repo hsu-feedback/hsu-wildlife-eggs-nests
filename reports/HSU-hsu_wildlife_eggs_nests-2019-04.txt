@@ -1,0 +1,183 @@
+Report for Institution Code HSU, Resource hsu_wildlife_eggs_nests
+Usage stats for April 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 193
+Number of records retrieved in searches: 300
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 179
+	Country: Belgium ; Times: 4
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 18
+	Date: 2019-04-18 ; Times: 4
+	Date: 2019-04-05 ; Times: 7
+	Date: 2019-04-12 ; Times: 4
+	Date: 2019-04-11 ; Times: 22
+	Date: 2019-04-10 ; Times: 3
+	Date: 2019-04-17 ; Times: 7
+	Date: 2019-04-16 ; Times: 5
+	Date: 2019-04-15 ; Times: 1
+	Date: 2019-04-14 ; Times: 2
+	Date: 2019-04-30 ; Times: 17
+	Date: 2019-04-07 ; Times: 4
+	Date: 2019-04-02 ; Times: 7
+	Date: 2019-04-03 ; Times: 2
+	Date: 2019-04-04 ; Times: 19
+	Date: 2019-04-23 ; Times: 1
+	Date: 2019-04-06 ; Times: 2
+	Date: 2019-04-21 ; Times: 5
+	Date: 2019-04-26 ; Times: 1
+	Date: 2019-04-01 ; Times: 1
+	Date: 2019-04-24 ; Times: 11
+	Date: 2019-04-25 ; Times: 3
+	Date: 2019-04-29 ; Times: 6
+	Date: 2019-04-08 ; Times: 28
+	Date: 2019-04-09 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;libby salt&#34;" ; Times: 1
+	Query: "catalognumber:3238 institutioncode:HSU" ; Times: 3
+	Query: "catalognumber:1860 institutioncode:HSU" ; Times: 4
+	Query: "hsu 1245" ; Times: 2
+	Query: "hsu 1244" ; Times: 3
+	Query: "catalognumber:1747 institutioncode:HSU" ; Times: 2
+	Query: "&#34;W. Leon Dawson&#34; &#34;San Luis Obispo&#34;" ; Times: 1
+	Query: "catalognumber:1886 institutioncode:HSU" ; Times: 4
+	Query: "catalognumber:1970 institutioncode:HSU" ; Times: 2
+	Query: "elf" ; Times: 5
+	Query: "class:aves county:&#34;middlesex&#34; recordedby:giles" ; Times: 1
+	Query: "catalognumber:3326 institutioncode:HSU" ; Times: 1
+	Query: "&#34;mary island&#34; &#34;saskatchewan&#34;" ; Times: 1
+	Query: "&#34;crescent lake&#34; &#34;saskatchewan&#34;" ; Times: 1
+	Query: "catalognumber:1892 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1375 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:3248 institutioncode:HSU" ; Times: 3
+	Query: "class:aves county:&#34;middlesex&#34; recordedby:giles year &gt;= 1900 year &lt;= 1925" ; Times: 1
+	Query: "catalognumber:1879 institutioncode:HSU" ; Times: 2
+	Query: "county:&#34;santa barbara&#34; institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1594 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:2146 institutioncode:HSU" ; Times: 4
+	Query: "pine rock district" ; Times: 1
+	Query: "county:&#34;ventura&#34; institutioncode:HSU" ; Times: 1
+	Query: "&#34;keyhole canyon&#34;" ; Times: 1
+	Query: "catalognumber:2613 institutioncode:HSU" ; Times: 1
+	Query: "&#34;Castle Ranch&#34; &#34;San Joaquin&#34;" ; Times: 1
+	Query: "catalognumber:2182 institutioncode:HSU" ; Times: 1
+	Query: "locality:trinidad recordedby:carpenter year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "county:&#34;los angeles&#34; institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1840 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2702 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:2546 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1729 institutioncode:HSU" ; Times: 2
+	Query: "locality:black sloughs stateprovince:&#34;utah&#34;" ; Times: 1
+	Query: "hsu 2149" ; Times: 2
+	Query: "catalognumber:1561 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2106 institutioncode:HSU" ; Times: 1
+	Query: "&#34;H. Hutch&#34;" ; Times: 1
+	Query: "Gallinula galeata mappable:1" ; Times: 2
+	Query: "catalognumber:2707 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:150 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2103 institutioncode:HSU" ; Times: 4
+	Query: "institutioncode:HSU" ; Times: 1
+	Query: "Elanus leucurus" ; Times: 2
+	Query: "catalognumber:2540 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2293 institutioncode:HSU" ; Times: 2
+	Query: "locality:Tidd Swamp" ; Times: 2
+	Query: "aistrath ranch" ; Times: 1
+	Query: "class:Aves catalognumber:3288 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:1862 institutioncode:HSU" ; Times: 2
+	Query: "eremophila alpestris Bear River Ridge" ; Times: 1
+	Query: "class:aves recordedby:giles year &gt;= 1900 year &lt;= 1925" ; Times: 1
+	Query: "catalognumber:602 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:1266 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1519 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1878 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:2373 institutioncode:HSU" ; Times: 2
+	Query: "recordedby:carpenter year &gt;= 1928 year &lt;= 1928 month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "catalognumber:2713 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2381 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2127 institutioncode:HSU" ; Times: 2
+	Query: "locality:Aistrath Ranch" ; Times: 1
+	Query: "catalognumber:2042 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1786 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:1893 institutioncode:HSU" ; Times: 1
+	Query: "class:Aves catalognumber:3282 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:1297 institutioncode:HSU" ; Times: 4
+	Query: "recordedby:carpenter year &gt;= 1870 year &lt;= 1900" ; Times: 1
+	Query: "county:&#34;san benito&#34; recordedby:carriger" ; Times: 1
+	Query: "catalognumber:2586 institutioncode:HSU" ; Times: 2
+	Query: "&#34;scotstown&#34;" ; Times: 1
+	Query: "catalognumber:2619 institutioncode:HSU" ; Times: 5
+	Query: "catalognumber:1761 institutioncode:HSU" ; Times: 1
+	Query: "class:Aves catalognumber:3286 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:1856 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:1099 institutioncode:HSU" ; Times: 2
+	Query: "&#34;W. Leon Dawson&#34;" ; Times: 1
+	Query: "ralph hain" ; Times: 1
+	Query: "catalognumber:2286 institutioncode:HSU" ; Times: 6
+	Query: "catalognumber:1888 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1881 institutioncode:HSU" ; Times: 2
+	Query: "recordedby:hain year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "catalognumber:1222 institutioncode:HSU" ; Times: 2
+	Query: "hsu 1263" ; Times: 2
+	Query: "&#34;scotstorm&#34;" ; Times: 1
+	Query: "catalognumber:1885 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2502 institutioncode:HSU" ; Times: 11
+	Query: "locality:round island stateprovince:&#34;new jersey&#34;" ; Times: 1
+	Query: "class:Aves catalognumber:1202 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "eremophila alpestris humboldt" ; Times: 1
+	Query: "&#34;battle creek&#34; &#34;saskatchewan&#34;" ; Times: 1
+	Query: "catalognumber:1591 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:169 institutioncode:HSU" ; Times: 2
+	Query: "&#34;R. I. Giles&#34;" ; Times: 1
+	Query: "catalognumber:2109 institutioncode:HSU" ; Times: 3
+	Query: "Platalea ajaja" ; Times: 2
+	Query: "catalognumber:2536 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:2102 institutioncode:HSU" ; Times: 4
+	Query: "&#34;almaden&#34; &#34;santa clara&#34;" ; Times: 1
+	Query: "Chatham rail" ; Times: 1
+	Query: "locality:pine rock district stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "catalognumber:1854 institutioncode:HSU" ; Times: 4
+	Query: "catalognumber:1884 institutioncode:HSU" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1263 download events in this period)
+Total number of records downloaded: 45
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-04-19 ; Times: 1
+	Date: 2019-04-11 ; Times: 2
+	Date: 2019-04-10 ; Times: 4
+	Date: 2019-04-17 ; Times: 1
+	Date: 2019-04-30 ; Times: 1
+	Date: 2019-04-08 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Quiscalus mexicanus" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:South Carolina" ; Times: 1
+	Query: "ruffed grouse" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "specificepithet:minor genus:scolopax" ; Times: 1
+	Query: "class:aves county:&#34;middlesex&#34; recordedby:giles" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Texas" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo stateprovince:Michigan" ; Times: 1
+	Query: "&#34;himantopus mexicanus&#34;" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Mississippi&#34;" ; Times: 1
+	Query: "order:Falconiformes stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+
+
+End of report.
