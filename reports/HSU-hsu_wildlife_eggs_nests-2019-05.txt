@@ -1,0 +1,107 @@
+Report for Institution Code HSU, Resource hsu_wildlife_eggs_nests
+Usage stats for May 2019, generated on 2019/06/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 47
+Number of records retrieved in searches: 97
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 43
+	Country: Brazil ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-30 ; Times: 3
+	Date: 2019-05-23 ; Times: 5
+	Date: 2019-05-22 ; Times: 8
+	Date: 2019-05-28 ; Times: 1
+	Date: 2019-05-09 ; Times: 3
+	Date: 2019-05-07 ; Times: 9
+	Date: 2019-05-06 ; Times: 4
+	Date: 2019-05-13 ; Times: 8
+	Date: 2019-05-03 ; Times: 1
+	Date: 2019-05-02 ; Times: 1
+	Date: 2019-05-01 ; Times: 2
+	Date: 2019-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:3187 institutioncode:HSU" ; Times: 2
+	Query: "elf" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "specificepithet:melanocephala class:aves stateprovince:&#34;alaska&#34; year &gt;= 1934 year &lt;= 1935" ; Times: 1
+	Query: "recordedby:ingraham year &gt;= 1888 year &lt;= 1889" ; Times: 1
+	Query: "catalognumber:2136 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:3367 institutioncode:HSU" ; Times: 2
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;Washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "catalognumber:1734 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:3305 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:264 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:2373 institutioncode:HSU" ; Times: 3
+	Query: "&#34;chestnut ridge&#34; &#34;Michigan&#34;" ; Times: 1
+	Query: "catalognumber:555 institutioncode:HSU" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; Geranoaetus albicaudatus" ; Times: 1
+	Query: "specificepithet:gambeli genus:poecile stateprovince:&#34;Alberta&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "catalognumber:2127 institutioncode:HSU" ; Times: 6
+	Query: "Piping plover" ; Times: 6
+	Query: "Gallinula galeata" ; Times: 1
+	Query: "catalognumber:3560 institutioncode:HSU" ; Times: 2
+	Query: "common gallinule" ; Times: 1
+	Query: "Gallinula galeata mappable:1" ; Times: 1
+	Query: "catalognumber:419 institutioncode:HSU" ; Times: 2
+	Query: "Marbled murrelet" ; Times: 6
+	Query: "catalognumber:1865 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1761 institutioncode:HSU" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 21 (out of 940 download events in this period)
+Total number of records downloaded: 90
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 14
+	Country: United Kingdom ; Times: 2
+	Country: Russia ; Times: 1
+	Country: Canada ; Times: 3
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-05-25 ; Times: 1
+	Date: 2019-05-24 ; Times: 2
+	Date: 2019-05-27 ; Times: 1
+	Date: 2019-05-21 ; Times: 2
+	Date: 2019-05-30 ; Times: 2
+	Date: 2019-05-22 ; Times: 2
+	Date: 2019-05-31 ; Times: 4
+	Date: 2019-05-28 ; Times: 3
+	Date: 2019-05-10 ; Times: 3
+	Date: 2019-05-14 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:tricolor genus:agelaius basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:squamata genus:Callipepla" ; Times: 1
+	Query: "Toxostoma lecontei" ; Times: 2
+	Query: "phalacrocorax carbo" ; Times: 1
+	Query: "specificepithet:gambeli genus:poecile stateprovince:&#34;Alberta&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "selasphorus rufus" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "specificepithet:atricapillus genus:poecile stateprovince:&#34;Washington&#34; month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1931 year &lt;= 1940" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1921 year &lt;= 1930" ; Times: 1
+	Query: "Ring-necked Pheasant" ; Times: 2
+	Query: "Vireo bellii" ; Times: 1
+	Query: "Toxostoma bendirei" ; Times: 1
+	Query: "vntype:specimen specificepithet:sordidulus genus:contopus" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1901 year &lt;= 1910" ; Times: 1
+	Query: "vntype:specimen specificepithet:californica genus:Callipepla" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;california&#34; year &lt;= 1960" ; Times: 1
+	Query: "Lanius ludovicianus" ; Times: 1
+	Query: "vntype:specimen specificepithet:virginianus genus:bubo year &gt;= 1891 year &lt;= 1900" ; Times: 1
+
+
+End of report.
