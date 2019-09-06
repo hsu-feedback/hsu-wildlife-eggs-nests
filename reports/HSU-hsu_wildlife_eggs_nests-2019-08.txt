@@ -1,0 +1,127 @@
+Report for Institution Code HSU, Resource hsu_wildlife_eggs_nests
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 91
+Number of records retrieved in searches: 347
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United Kingdom ; Times: 1
+	Country: Italy ; Times: 10
+	Country: Unknown ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 54
+	Country: Peru ; Times: 14
+	Country: Denmark ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-03 ; Times: 1
+	Date: 2019-08-01 ; Times: 5
+	Date: 2019-08-07 ; Times: 1
+	Date: 2019-08-29 ; Times: 3
+	Date: 2019-08-19 ; Times: 1
+	Date: 2019-08-02 ; Times: 4
+	Date: 2019-08-17 ; Times: 1
+	Date: 2019-08-16 ; Times: 5
+	Date: 2019-08-15 ; Times: 18
+	Date: 2019-08-14 ; Times: 14
+	Date: 2019-08-13 ; Times: 4
+	Date: 2019-08-05 ; Times: 3
+	Date: 2019-08-28 ; Times: 3
+	Date: 2019-08-10 ; Times: 1
+	Date: 2019-08-08 ; Times: 9
+	Date: 2019-08-09 ; Times: 3
+	Date: 2019-08-31 ; Times: 1
+	Date: 2019-08-30 ; Times: 5
+	Date: 2019-08-20 ; Times: 3
+	Date: 2019-08-21 ; Times: 6
+
+List of queries that retrieved data from the resource: 
+	Query: "Geranoaetus albicaudatus" ; Times: 1
+	Query: "family:Alcidae stateprovince:&#34;Baja California Sur&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Chlidonias leucopterus" ; Times: 1
+	Query: "Spatula discors" ; Times: 1
+	Query: "genus:synthliboramphus family:Alcidae locality:coronados country:&#34;mexico&#34; preparations:eggs" ; Times: 1
+	Query: "Patagioenas fasciata" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 4
+	Query: "locality:white ranch county:&#34;san joaquin&#34;" ; Times: 1
+	Query: "genus:synthliboramphus family:Alcidae locality:coronado country:&#34;mexico&#34;" ; Times: 1
+	Query: "specificepithet:hypoleucus family:Alcidae locality:coronado country:&#34;mexico&#34; preparations:eggs" ; Times: 1
+	Query: "Sula nebouxii" ; Times: 1
+	Query: "Eudromia elegans" ; Times: 1
+	Query: "family:Alcidae locality:Coronado country:&#34;mexico&#34; AND (NOT Ptychoramphus)" ; Times: 1
+	Query: "specificepithet:hypoleucus genus:Synthliboramphus" ; Times: 2
+	Query: "Vireo bellii pusillus" ; Times: 4
+	Query: "genus:synthliboramphus family:Alcidae locality:los coronados country:&#34;mexico&#34; preparations:eggs" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 4
+	Query: "recordedby:dawson year &gt;= 1912 year &lt;= 1912 month &gt;= 4 month &lt;= 4" ; Times: 1
+	Query: "Antrostomus carolinensis" ; Times: 1
+	Query: "locality:castle county:&#34;san joaquin&#34;" ; Times: 1
+	Query: "Spatula cyanoptera" ; Times: 1
+	Query: "elf" ; Times: 2
+	Query: "Brachyramphus marmoratus" ; Times: 6
+	Query: "family:Alcidae country:&#34;mexico&#34; (Coronado OR Coronados) AND (NOT Ptychoramphus) year &gt;= 1930 year &lt;= 1939" ; Times: 2
+	Query: "specificepithet:tricolor genus:Agelaius" ; Times: 4
+	Query: "Mycteria americana" ; Times: 3
+	Query: "Leucophaeus pipixcan" ; Times: 1
+	Query: "Onychoprion fuscatus" ; Times: 1
+	Query: "class:aves recordedby:dawson year &gt;= 1912" ; Times: 1
+	Query: "locality:sycamore recordedby:stevens" ; Times: 1
+	Query: "Hydrobates pelagicus" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 2
+	Query: "Gallinula galeata" ; Times: 1
+	Query: "specificepithet:mexicanus genus:falco year &gt;= 1910 year &lt;= 1915" ; Times: 1
+	Query: "Vireo bellii" ; Times: 3
+	Query: "county:&#34;santa barbara&#34; recordedby:stevens year &gt;= 1952 year &lt;= 1952" ; Times: 2
+	Query: "recordedby:Giles preparations:eggs" ; Times: 2
+	Query: "genus:Morus " ; Times: 1
+	Query: "Empidonax traillii" ; Times: 2
+	Query: "Nothoprocta cinerascens" ; Times: 1
+	Query: "genus:Antrostomus specificepithet:carolinensis" ; Times: 1
+	Query: "genus:synthliboramphus family:Alcidae locality:coronado country:&#34;mexico&#34; preparations:eggs" ; Times: 1
+	Query: "Ictinia mississippiensis" ; Times: 1
+	Query: "specificepithet:marmoratus genus:Brachyramphus" ; Times: 2
+	Query: "locality:andrews* country:&#34;trinidad and tobago&#34;" ; Times: 1
+	Query: "catalognumber:253 institutioncode:HSU" ; Times: 1
+	Query: "class:aves locality:caliente county:&#34;santa barbara&#34; recordedby:stevens" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 8
+	Query: "Coronado family:Alcidae AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "recordedby:stevens year &gt;= 1951 year &lt;= 1951" ; Times: 1
+	Query: "Morus serrator" ; Times: 1
+	Query: "genus:Morus  specificepithet:bassanus" ; Times: 1
+	Query: "class:aves recordedby:dawson year &gt;= 1912 year &lt;= 1912" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1034 download events in this period)
+Total number of records downloaded: 24
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 6
+	Country: Italy ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-02 ; Times: 3
+	Date: 2019-08-16 ; Times: 1
+	Date: 2019-08-15 ; Times: 1
+	Date: 2019-08-13 ; Times: 1
+	Date: 2019-08-29 ; Times: 1
+	Date: 2019-08-30 ; Times: 1
+	Date: 2019-08-20 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Hydrobates pelagicus" ; Times: 1
+	Query: "family:Alcidae country:&#34;mexico&#34; (Coronado OR Coronados) AND (NOT Ptychoramphus) year &gt;= 1930 year &lt;= 1939" ; Times: 2
+	Query: "genus:Centrocercus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "county:&#34;santa barbara&#34; recordedby:stevens" ; Times: 1
+	Query: "family:Alcidae country:&#34;mexico&#34; (Coronado OR Coronados) AND (NOT Ptychoramphus NOT Cepphus NOT Cerorhinca)" ; Times: 1
+	Query: "specificepithet:virescens genus:Empidonax" ; Times: 1
+
+
+End of report.
