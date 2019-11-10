@@ -1,0 +1,71 @@
+Report for Institution Code HSU, Resource hsu_wildlife_eggs_nests
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 75
+Number of records retrieved in searches: 170
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 74
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 6
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-10 ; Times: 6
+	Date: 2019-09-12 ; Times: 12
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-09 ; Times: 3
+	Date: 2019-09-06 ; Times: 41
+	Date: 2019-09-05 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:2919 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:3377 institutioncode:HSU" ; Times: 2
+	Query: "class:aves stateprovince:&#34;scotland&#34; recordedby:omond" ; Times: 1
+	Query: "catalognumber:335 institutioncode:HSU" ; Times: 2
+	Query: "institutioncode:HSU" ; Times: 3
+	Query: "catalognumber:987 institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:1546 institutioncode:HSU" ; Times: 3
+	Query: "catalognumber:2190 institutioncode:HSU" ; Times: 2
+	Query: "Coccyzus americanus" ; Times: 10
+	Query: "elf" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 5
+	Query: "&#34;Mad River mouth&#34; institutioncode:HSU" ; Times: 1
+	Query: "catalognumber:2197 institutioncode:HSU" ; Times: 2
+	Query: "Empidonax traillii" ; Times: 8
+	Query: "catalognumber:140 institutioncode:HSU" ; Times: 1
+	Query: "Coccyzus americanus americanus" ; Times: 18
+	Query: "catalognumber:1111 institutioncode:HSU" ; Times: 2
+	Query: "catalognumber:1 institutioncode:HSU" ; Times: 6
+	Query: "stateprovince:&#34;scotland&#34; recordedby:hutch" ; Times: 1
+	Query: "catalognumber:3273 institutioncode:HSU" ; Times: 2
+	Query: "country:&#34;canada&#34; recordedby:beasley" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 6 (out of 1073 download events in this period)
+Total number of records downloaded: 2510
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: United States ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-30 ; Times: 1
+	Date: 2019-09-10 ; Times: 3
+	Date: 2019-09-06 ; Times: 1
+	Date: 2019-09-13 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1905 year &lt;= 1915" ; Times: 1
+	Query: "institutioncode:HSU" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "class:aves stateprovince:&#34;scotland&#34; year &gt;= 1890 year &lt;= 1905" ; Times: 2
+	Query: "family:cracidae" ; Times: 1
+
+
+End of report.
