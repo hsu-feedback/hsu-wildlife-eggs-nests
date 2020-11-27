@@ -1,0 +1,97 @@
+Report for Institution Code HSU, Resource hsu_wildlife_eggs_nests
+Usage stats for November 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 109
+Number of records retrieved in searches: 470
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 108
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-21 ; Times: 6
+	Date: 2019-11-22 ; Times: 1
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-19 ; Times: 1
+	Date: 2019-11-08 ; Times: 16
+	Date: 2019-11-09 ; Times: 9
+	Date: 2019-11-06 ; Times: 11
+	Date: 2019-11-07 ; Times: 19
+	Date: 2019-11-04 ; Times: 1
+	Date: 2019-11-16 ; Times: 19
+	Date: 2019-11-11 ; Times: 1
+	Date: 2019-11-03 ; Times: 1
+	Date: 2019-11-13 ; Times: 6
+	Date: 2019-11-12 ; Times: 10
+	Date: 2019-11-15 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:1736 institutioncode:HSU" ; Times: 2
+	Query: "locality:millers stateprovince:&#34;oklahoma&#34;" ; Times: 1
+	Query: "Sharp-tailed grouse" ; Times: 1
+	Query: "Brachyramphus marmoratus 2010" ; Times: 5
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1920 NOT Stephens" ; Times: 1
+	Query: "locality:ramsey stateprovince:&#34;wales&#34;" ; Times: 1
+	Query: "catalognumber:2710 institutioncode:HSU" ; Times: 1
+	Query: "Brachyramphus marmoratus 2018" ; Times: 5
+	Query: "locality:neighbor recordedby:savary" ; Times: 1
+	Query: "Brachyramphus marmoratus 2014" ; Times: 5
+	Query: "class:aves recordedby:beasley" ; Times: 1
+	Query: "Brachyramphus marmoratus 2017" ; Times: 5
+	Query: "elf" ; Times: 2
+	Query: "Brachyramphus marmoratus 2011" ; Times: 5
+	Query: "Brachyramphus marmoratus 2012" ; Times: 5
+	Query: "Mycteria americana 2018" ; Times: 4
+	Query: "Mycteria americana 2017" ; Times: 4
+	Query: "Mycteria americana 2016" ; Times: 4
+	Query: "catalognumber:2881 institutioncode:HSU" ; Times: 2
+	Query: "Charadrius melodus 2018" ; Times: 4
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1920 AND Field" ; Times: 1
+	Query: "Charadrius melodus 2017" ; Times: 4
+	Query: "Piping plover" ; Times: 4
+	Query: "Charadrius melodus 2016" ; Times: 4
+	Query: "Psaltriparus minimus Ventura County" ; Times: 1
+	Query: "Vireo bellii pusillus 2016" ; Times: 3
+	Query: "Vireo bellii pusillus 2017" ; Times: 3
+	Query: "Vireo bellii pusillus 2018" ; Times: 3
+	Query: "catalognumber:2140 institutioncode:HSU" ; Times: 2
+	Query: "institutioncode:HSU" ; Times: 1
+	Query: "Oceanodroma leucorhoa AND Coronados AND 1920" ; Times: 7
+	Query: "Coccyzus americanus 2017" ; Times: 8
+	Query: "Oceanodroma homochroa AND Farallon AND Carriger NOT Fair NOT Anthony NOT HRT NOT Beeman NOT Taylor NOT Winthars NOT Rowley NOT Gifford NOT Wheeler NOT Painton NOT Mailliard NOT Osgood NOT Craig NOT Emerson NOT Barlow" ; Times: 1
+	Query: "Brachyramphus marmoratus 2016" ; Times: 4
+	Query: "Coccyzus americanus 2018" ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 9 (out of 1367 download events in this period)
+Total number of records downloaded: 68
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-11-05 ; Times: 1
+	Date: 2019-11-15 ; Times: 2
+	Date: 2019-11-07 ; Times: 1
+	Date: 2019-11-04 ; Times: 2
+	Date: 2019-11-16 ; Times: 2
+	Date: 2019-11-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "bushtit eggs" ; Times: 1
+	Query: "Charadrius melodus" ; Times: 1
+	Query: "family:Columbidae stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Falco sparverius vntype:specimen stateprovince:&#34;California&#34; county: &#34;San Francisco&#34; OR &#34;San Mateo&#34; OR &#34;Santa Cruz&#34; OR &#34;Santa Clara&#34; OR &#34;Alameda&#34; OR &#34;Contra Costa&#34; OR &#34;Solano&#34; OR &#34;Napa&#34; OR &#34;Sonoma&#34; OR &#34;Marin&#34;" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "savannah sparrow" ; Times: 1
+	Query: "seaside sparrow" ; Times: 1
+	Query: "vermivora chrysoptera vntype:specimen" ; Times: 1
+	Query: "family:Cardinalidae (nest)" ; Times: 1
+
+
+End of report.
