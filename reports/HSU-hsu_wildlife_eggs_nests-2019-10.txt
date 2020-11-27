@@ -1,0 +1,126 @@
+Report for Institution Code HSU, Resource hsu_wildlife_eggs_nests
+Usage stats for October 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 170
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 36
+	Country: Unknown ; Times: 10
+	Country: India ; Times: 1
+	Country: Brazil ; Times: 3
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-22 ; Times: 16
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-02 ; Times: 1
+	Date: 2019-10-26 ; Times: 4
+	Date: 2019-10-24 ; Times: 8
+	Date: 2019-10-12 ; Times: 3
+	Date: 2019-10-28 ; Times: 2
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-31 ; Times: 3
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-23 ; Times: 8
+	Date: 2019-10-15 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "pusilla Cardellina" ; Times: 1
+	Query: "Poecile gambeli alberta" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "Vireo bellii pusillus 2017" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad and 1930" ; Times: 1
+	Query: "specificepithet:crissale genus:Toxostoma county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Brachyramphus marmoratus 2012" ; Times: 1
+	Query: "specificepithet:crissale genus:toxostoma stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Brachyramphus marmoratus 2018" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND 1932 NOT YPM NOT Bancroft NOT Harrison" ; Times: 1
+	Query: "Coccyzus americanus 2017" ; Times: 2
+	Query: "Tyrannus verticalis AND Island" ; Times: 1
+	Query: "Brachyramphus marmoratus 2016" ; Times: 1
+	Query: "common quail" ; Times: 1
+	Query: "Brachyramphus marmoratus 2010" ; Times: 1
+	Query: "Brachyramphus marmoratus 2011" ; Times: 1
+	Query: "Scammon AND Island" ; Times: 1
+	Query: "Mycteria americana 2018" ; Times: 1
+	Query: "Mycteria americana 2017" ; Times: 1
+	Query: "Brachyramphus marmoratus 2017" ; Times: 1
+	Query: "&#34;C. L. Field&#34; AND Baja" ; Times: 2
+	Query: "albolarvatus Picoides" ; Times: 2
+	Query: "Charadrius melodus 2018" ; Times: 1
+	Query: "Poecile rufescens California Humboldt County" ; Times: 1
+	Query: "Charadrius melodus 2017" ; Times: 1
+	Query: "Charadrius melodus 2016" ; Times: 1
+	Query: "Vireo bellii pusillus 2016" ; Times: 1
+	Query: "Mycteria americana 2016" ; Times: 1
+	Query: "Vireo bellii pusillus 2018" ; Times: 1
+	Query: "erythrorhynchos Pelecanus" ; Times: 6
+	Query: "genus:Toxostoma class:Aves locality:Palm Springs county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Synthliboramphus craveri continent:North America" ; Times: 3
+	Query: "Brachyramphus marmoratus 2014" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma class:Aves locality:Palm Springs county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Egretta thula AND Baja" ; Times: 1
+	Query: "Coccyzus americanus 2018" ; Times: 1
+	Query: "Puffinus opisthomelas AND Natividad AND 1932 NOT Harrison" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 20 (out of 1308 download events in this period)
+Total number of records downloaded: 75
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: Unknown ; Times: 1
+	Country: United States ; Times: 15
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-10-09 ; Times: 1
+	Date: 2019-10-23 ; Times: 1
+	Date: 2019-10-18 ; Times: 1
+	Date: 2019-10-19 ; Times: 1
+	Date: 2019-10-26 ; Times: 1
+	Date: 2019-10-24 ; Times: 1
+	Date: 2019-10-01 ; Times: 1
+	Date: 2019-10-05 ; Times: 1
+	Date: 2019-10-10 ; Times: 1
+	Date: 2019-10-11 ; Times: 1
+	Date: 2019-10-16 ; Times: 1
+	Date: 2019-10-04 ; Times: 3
+	Date: 2019-10-21 ; Times: 1
+	Date: 2019-10-17 ; Times: 1
+	Date: 2019-10-20 ; Times: 1
+	Date: 2019-10-28 ; Times: 1
+	Date: 2019-10-30 ; Times: 1
+	Date: 2019-10-29 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Geothlypis tolmiei" ; Times: 2
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "genus:Calypte" ; Times: 1
+	Query: "Ammodramus maritimus" ; Times: 1
+	Query: "Setophaga occidentalis" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "specificepithet:swainsoni genus:buteo stateprovince:&#34;california&#34; year &lt;= 1955 month &gt;= 4 month &lt;= 8" ; Times: 1
+	Query: "Mourning dove" ; Times: 1
+	Query: "vntype:specimen class:Aves stateprovince:&#34;Nebraska&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "tringa semipalmata" ; Times: 1
+	Query: "Salpinctes obsoletus" ; Times: 1
+	Query: "Falco sparverius stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "buteo platypterus" ; Times: 1
+	Query: "prairie falcon" ; Times: 1
+	Query: "specificepithet:crissale genus:toxostoma stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "colinus virginianus" ; Times: 1
+	Query: "puffinus opisthomelas" ; Times: 1
+	Query: "toxostoma crissale" ; Times: 1
+	Query: "Oreothlypis ruficapilla" ; Times: 1
+
+
+End of report.
