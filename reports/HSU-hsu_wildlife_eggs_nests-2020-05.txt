@@ -1,0 +1,61 @@
+Report for Institution Code HSU, Resource hsu_wildlife_eggs_nests
+Usage stats for May 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 10
+Number of records retrieved in searches: 26
+Number of different countries where searches have been originated: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 9
+	Country: Unknown ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-18 ; Times: 1
+	Date: 2020-05-06 ; Times: 6
+	Date: 2020-05-04 ; Times: 1
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-19 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "locality:&#34;accotink&#34; &#34;gut&#34;" ; Times: 1
+	Query: "locality:&#34;accotink&#34; &#34;deep&#34;" ; Times: 1
+	Query: "institutioncode:HSU" ; Times: 1
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 1
+	Query: "locality:accotink" ; Times: 1
+	Query: "Texas Ictinia mississippiensis" ; Times: 1
+	Query: "Junco hyemalis Banff nest" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Black-vented shearwater" ; Times: 1
+	Query: "locality:deep gut" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 11 (out of 1106 download events in this period)
+Total number of records downloaded: 69
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 11
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-05-30 ; Times: 1
+	Date: 2020-05-31 ; Times: 2
+	Date: 2020-05-19 ; Times: 1
+	Date: 2020-05-13 ; Times: 5
+	Date: 2020-05-15 ; Times: 1
+	Date: 2020-05-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Fratercula cirrhata" ; Times: 2
+	Query: "specificepithet:bellii genus:vireo stateprovince:&#34;california&#34; year &gt;= 1850 year &lt;= 1920" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Maryland&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "Calcarius ornatus" ; Times: 1
+	Query: "Fratercula arctica" ; Times: 1
+	Query: "Thryomanes bewickii" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34;" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;District of Columbia&#34; country:&#34;United States&#34;" ; Times: 3
+
+
+End of report.
