@@ -1,0 +1,72 @@
+Report for Institution Code HSU, Resource hsu_wildlife_eggs_nests
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 13
+Number of records retrieved in searches: 23
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 8
+	Country: Unknown ; Times: 3
+	Country: Russia ; Times: 1
+	Country: France ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-17 ; Times: 2
+	Date: 2020-01-18 ; Times: 1
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-14 ; Times: 1
+	Date: 2020-01-09 ; Times: 2
+	Date: 2020-01-31 ; Times: 2
+	Date: 2020-01-10 ; Times: 2
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-23 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:aves recordedby:stevens year &gt;= 1951 year &lt;= 1951" ; Times: 1
+	Query: "puffin 1929" ; Times: 1
+	Query: "class:aves locality:&#34;wilson&#34; recordedby:fraser" ; Times: 1
+	Query: "california gull minnesota" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "locality:wilson tract county:&#34;humboldt&#34;" ; Times: 1
+	Query: "locality:spinney county:&#34;humboldt&#34;" ; Times: 1
+	Query: "tufted puffin 1929" ; Times: 1
+	Query: "McHenry County Cistothorus palustris" ; Times: 2
+	Query: "genus:ptychoramphus county:&#34;humboldt&#34; stateprovince:&#34;california&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 15 (out of 1584 download events in this period)
+Total number of records downloaded: 172
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Mexico ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-16 ; Times: 1
+	Date: 2020-01-08 ; Times: 3
+	Date: 2020-01-24 ; Times: 2
+	Date: 2020-01-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "strix varia" ; Times: 1
+	Query: "Strix varia" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "class:aves county:&#34;humboldt&#34; recordedby:smith franklin" ; Times: 2
+	Query: "Mycteria americana" ; Times: 1
+	Query: "Haemorhous mexicanus" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+
+
+End of report.
