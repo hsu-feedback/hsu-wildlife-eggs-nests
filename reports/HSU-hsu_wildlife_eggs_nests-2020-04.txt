@@ -1,0 +1,109 @@
+Report for Institution Code HSU, Resource hsu_wildlife_eggs_nests
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 76
+Number of records retrieved in searches: 197
+Number of different countries where searches have been originated: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: United Kingdom ; Times: 50
+	Country: India ; Times: 1
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-12 ; Times: 1
+	Date: 2020-04-17 ; Times: 2
+	Date: 2020-04-16 ; Times: 1
+	Date: 2020-04-15 ; Times: 1
+	Date: 2020-04-14 ; Times: 15
+	Date: 2020-04-22 ; Times: 5
+	Date: 2020-04-20 ; Times: 3
+	Date: 2020-04-07 ; Times: 19
+	Date: 2020-04-01 ; Times: 2
+	Date: 2020-04-24 ; Times: 6
+	Date: 2020-04-03 ; Times: 9
+	Date: 2020-04-21 ; Times: 8
+	Date: 2020-04-28 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen institutioncode:HSU" ; Times: 4
+	Query: "Branta sandvicensis" ; Times: 5
+	Query: "Sternula antillarum" ; Times: 6
+	Query: "locality:robinson county:&#34;chatham&#34;" ; Times: 2
+	Query: "Larus glaucoides" ; Times: 6
+	Query: "Phoenicopterus ruber" ; Times: 6
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:phillips" ; Times: 1
+	Query: "locality:chesapeake county:&#34;box elder&#34;" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 9
+	Query: "elf" ; Times: 3
+	Query: "locality:chisolm county:&#34;beaufort&#34; recordedby:harllee" ; Times: 1
+	Query: "class:aves country:&#34;mexico&#34; recordedby:humphries" ; Times: 1
+	Query: "stateprovince:&#34;north carolina&#34; recordedby:harllee" ; Times: 1
+	Query: "locality:chestnut stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "Pluvialis apricaria" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:phillips basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "locality:half island stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "stateprovince:&#34;alberta&#34; recordedby:wilby" ; Times: 1
+	Query: "class:aves country:&#34;mexico&#34; recordedby:field year &gt;= 1920 year &lt;= 1920" ; Times: 1
+	Query: "class:aves country:&#34;mexico&#34; recordedby:carpenter year &gt;= 1920 year &lt;= 1925" ; Times: 1
+	Query: "Aramus guarauna" ; Times: 4
+	Query: "Phalacrocorax carbo" ; Times: 4
+	Query: "Eudocimus albus" ; Times: 4
+	Query: "vntype:specimen specificepithet:caerulescens genus:Anser preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 6
+	Query: "locality:&#34;half island&#34; stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "locality:beverly county:&#34;chatham&#34;" ; Times: 1
+	Query: "stateprovince:&#34;alaska&#34; recordedby:phillips year &gt;= 1976 year &lt;= 1976" ; Times: 1
+	Query: "locality:pritchards county:&#34;chatham&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 1171 download events in this period)
+Total number of records downloaded: 135
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-11 ; Times: 2
+	Date: 2020-04-17 ; Times: 1
+	Date: 2020-04-15 ; Times: 5
+	Date: 2020-04-14 ; Times: 1
+	Date: 2020-04-22 ; Times: 1
+	Date: 2020-04-30 ; Times: 4
+	Date: 2020-04-07 ; Times: 2
+	Date: 2020-04-27 ; Times: 1
+	Date: 2020-04-24 ; Times: 1
+	Date: 2020-04-03 ; Times: 1
+	Date: 2020-04-29 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Egretta rufescens Texas" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucocephalus genus:Haliaeetus preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "golden eagle" ; Times: 1
+	Query: "vntype:specimen specificepithet:americana genus:Fulica preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Aphelocoma californica" ; Times: 1
+	Query: "Rallus crepitans" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "Bubo virginianus texas" ; Times: 1
+	Query: "Ardea herodias Texas" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "Egretta tricolor Texas" ; Times: 1
+	Query: "vntype:specimen specificepithet:rustica genus:Hirundo preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:caerulescens genus:Anser preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Eudocimus albus Texas" ; Times: 1
+	Query: "Rallus obsoletus" ; Times: 1
+
+
+End of report.
