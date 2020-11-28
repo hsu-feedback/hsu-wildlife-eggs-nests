@@ -1,0 +1,87 @@
+Report for Institution Code HSU, Resource hsu_wildlife_eggs_nests
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 51
+Number of records retrieved in searches: 99
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 20
+	Country: United Kingdom ; Times: 13
+	Country: Austria ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Unknown ; Times: 15
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 4
+	Date: 2020-10-08 ; Times: 1
+	Date: 2020-10-20 ; Times: 2
+	Date: 2020-10-27 ; Times: 2
+	Date: 2020-10-22 ; Times: 6
+	Date: 2020-10-13 ; Times: 29
+	Date: 2020-10-29 ; Times: 1
+	Date: 2020-10-02 ; Times: 2
+	Date: 2020-10-23 ; Times: 1
+	Date: 2020-10-28 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "locality:frankford recordedby:miller year &gt;= 1923 year &lt;= 1923" ; Times: 1
+	Query: "Larus glaucoides" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Thalasseus elegans" ; Times: 1
+	Query: "Black Duck Ontario" ; Times: 1
+	Query: "class:aves stateprovince:&#34;new york&#34; recordedby:watson basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 1
+	Query: "genus:Rynchops basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "scientificname:Aix sponsa" ; Times: 16
+	Query: "scientificname:Ortalis vetula" ; Times: 1
+	Query: "Anas rubripes (Ontario )" ; Times: 1
+	Query: "Morus bassanus" ; Times: 1
+	Query: "specificepithet:herodias genus:ardea class:aves county:&#34;monroe&#34; stateprovince:&#34;florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Rynchops" ; Times: 3
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "Haematopus palliatus" ; Times: 1
+	Query: "class:aves recordedby:gillet basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Thalasseus sandvicensis" ; Times: 1
+	Query: "county:&#34;okeechobee&#34; recordedby:savary" ; Times: 5
+	Query: "Branta sandvicensis" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "Morus serrator" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 12 (out of 1521 download events in this period)
+Total number of records downloaded: 47
+Number of different countries: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 10
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-23 ; Times: 3
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-28 ; Times: 2
+	Date: 2020-10-31 ; Times: 1
+	Date: 2020-10-06 ; Times: 2
+	Date: 2020-10-15 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "bald eagle" ; Times: 2
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "Antigone canadensis" ; Times: 2
+	Query: "vntype:specimen specificepithet:lewis genus:melanerpes country:&#34;United States&#34;" ; Times: 1
+	Query: "vntype:specimen order:Coraciiformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:minor genus:fregata" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:athene" ; Times: 1
+	Query: "white-winged dove" ; Times: 1
+
+
+End of report.
