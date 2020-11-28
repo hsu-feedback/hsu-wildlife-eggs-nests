@@ -1,0 +1,74 @@
+Report for Institution Code HSU, Resource hsu_wildlife_eggs_nests
+Usage stats for August 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 35
+Number of records retrieved in searches: 111
+Number of different countries where searches have been originated: 3
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 26
+	Country: United Kingdom ; Times: 7
+	Country: Canada ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-18 ; Times: 6
+	Date: 2020-08-12 ; Times: 1
+	Date: 2020-08-11 ; Times: 5
+	Date: 2020-08-07 ; Times: 1
+	Date: 2020-08-08 ; Times: 1
+	Date: 2020-08-25 ; Times: 3
+	Date: 2020-08-30 ; Times: 1
+	Date: 2020-08-19 ; Times: 1
+	Date: 2020-08-21 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:marmoratus genus:brachyramphus stateprovince:&#34;california&#34; year &gt;= 1992 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Northern Hawk Owl" ; Times: 1
+	Query: "county:&#34;marin&#34; recordedby:carriger" ; Times: 3
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "Eudocimus albus" ; Times: 1
+	Query: "locality:gate house county:&#34;middlesex&#34;" ; Times: 2
+	Query: "locality:goose recordedby:withey" ; Times: 2
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "locality:sherwood branch county:&#34;mendocino&#34;" ; Times: 1
+	Query: "locality:framingham county:&#34;middlesex&#34; recordedby:giles" ; Times: 1
+	Query: "Larus glaucoides" ; Times: 1
+	Query: "Raine Long Lake" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "locality:goose recordedby:withey year &gt;= 1924 year &lt;= 1924" ; Times: 1
+	Query: "locality:kalevala stateprovince:&#34;manitoba&#34;" ; Times: 5
+	Query: "county:&#34;middlesex&#34; recordedby:giles" ; Times: 4
+	Query: "Raine Saskatchewan" ; Times: 1
+	Query: "recordedby:giles year &gt;= 1918 year &lt;= 1918 month &gt;= 4 month &lt;= 4" ; Times: 2
+	Query: "elf" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 5 (out of 756 download events in this period)
+Total number of records downloaded: 25
+Number of different countries: 2
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: United States ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-08-26 ; Times: 1
+	Date: 2020-08-21 ; Times: 1
+	Date: 2020-08-23 ; Times: 1
+	Date: 2020-08-06 ; Times: 1
+	Date: 2020-08-12 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Northern Hawk Owl" ; Times: 1
+	Query: "vntype:specimen specificepithet:sandwichensis genus:Passerculus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "stateprovince:&#34;Oregon&#34; year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Warbling Vireo" ; Times: 1
+
+
+End of report.
